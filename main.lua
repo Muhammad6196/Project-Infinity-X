@@ -95,5 +95,5 @@ elseif game.PlaceId == 126884695634066 then
 elseif game.PlaceId == 127742093697776 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cb19e4616be931c4"))()
 elseif game.PlaceId == 9872472334 then
-  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/86ed5ad6dc6bc080"))()
+  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cdf20798edb9499c"))()
 end
