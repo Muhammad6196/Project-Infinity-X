@@ -89,7 +89,7 @@ if game.PlaceId == 79546208627805 then
   end
   ShowSideMessage("Join main game to run it")
 elseif game.PlaceId == 126509999114328 then
-  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/79bebfe9c147a95a"))()
+  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/6506692c3cbf789a"))()
 elseif game.PlaceId == 126884695634066 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/aec04dd265c9656e"))()
 elseif game.PlaceId == 127742093697776 then
