@@ -89,7 +89,7 @@ if game.PlaceId == 79546208627805 then
   end
   ShowSideMessage("Join main game to run it")
 elseif game.PlaceId == 126509999114328 then
-  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d211f4918001b70d"))()
+  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d211f4918001b70d"))() --99 nights
 elseif game.PlaceId == 126884695634066 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d436a3dec68090f8"))()
 elseif game.PlaceId == 127742093697776 then
@@ -98,6 +98,8 @@ elseif game.PlaceId == 9872472334 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/33b2c243da37d519"))()
 elseif game.PlaceId == 121864768012064 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/25f96166e0f330f4"))()
-elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then
+elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/eabe16c077bd48bf"))()
+elseif game.PlaceId == 142823291 then --MM2
+  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/46343373b7adc293"))()
 end
