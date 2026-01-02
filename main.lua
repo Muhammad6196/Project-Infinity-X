@@ -94,8 +94,8 @@ elseif game.PlaceId == 126884695634066 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d436a3dec68090f8"))()
 elseif game.PlaceId == 127742093697776 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/f269d7846cd7a206"))()
-elseif game.PlaceId == 9872472334 then
-  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/33b2c243da37d519"))()
+elseif game.PlaceId == 9872472334 then --evade
+  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/c62fe43077b23143"))()
 elseif game.PlaceId == 121864768012064 then
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/25f96166e0f330f4"))()
 elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
