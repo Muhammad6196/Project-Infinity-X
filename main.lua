@@ -107,5 +107,5 @@ elseif game.PlaceId == 121864768012064 then
 elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/eabe16c077bd48bf"))()
 elseif game.PlaceId == 142823291 then --MM2
-  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/46343373b7adc293"))()
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/242c8b8a335d4b4b"))()
 end
