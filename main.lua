@@ -95,7 +95,7 @@ elseif game.PlaceId == 126884695634066 then -- Grow A Garden
 elseif game.PlaceId == 127742093697776 then --Plant vs Brainrots
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/f269d7846cd7a206"))() 
 elseif game.PlaceId == 9872472334 then --evade
-  loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/c62fe43077b23143"))()
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/a6242f0749304af0"))()
   local vu = game:GetService("VirtualUser")
   game:GetService("Players").LocalPlayer.Idled:connect(function()
       vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
