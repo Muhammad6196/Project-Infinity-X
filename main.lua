@@ -89,7 +89,7 @@ if game.PlaceId == 79546208627805 then
   end
   ShowSideMessage("Join main game to run it")
 elseif game.PlaceId == 126509999114328 then
-  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/b6a950bbd8c14f3f"))() --99 nights
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/a44fd27dbd8b4cff"))() --99 nights
 elseif game.PlaceId == 126884695634066 then -- Grow A Garden
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/d436a3dec68090f8"))()
 elseif game.PlaceId == 127742093697776 then --Plant vs Brainrots
