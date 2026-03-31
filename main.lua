@@ -1,4 +1,4 @@
-if game.PlaceId == 79546208627805 then
+if game.PlaceId == 79546208627805 or game.PlaceId == 16116270224 then
   local Players = game:GetService("Players")
   local TweenService = game:GetService("TweenService")
   
@@ -108,4 +108,6 @@ elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId
   loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/eabe16c077bd48bf"))()
 elseif game.PlaceId == 142823291 then --MM2
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/242c8b8a335d4b4b"))()
+elseif game.PlaceId == 16552821455 then --Dandy World
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/f1a3c3bf15b5463b"))()
 end
