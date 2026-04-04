@@ -110,4 +110,6 @@ elseif game.PlaceId == 142823291 then --MM2
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/242c8b8a335d4b4b"))()
 elseif game.PlaceId == 16552821455 then --Dandy World
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/f1a3c3bf15b5463b"))()
+elseif game.PlaceId == 124473577469410 then --be a lucky block
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/8cb263cd3de34c26"))()
 end
