@@ -116,4 +116,6 @@ elseif game.PlaceId == 16552821455 then --Dandy World
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/f1a3c3bf15b5463b"))()
 elseif game.PlaceId == 124473577469410 then --be a lucky block
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/8cb263cd3de34c26"))()
+elseif game.PlaceId == 70845479499574 then --Bite By Night
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/5bd105d1525b4621"))()
 end
