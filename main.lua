@@ -118,4 +118,6 @@ elseif game.PlaceId == 124473577469410 then --be a lucky block
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/8cb263cd3de34c26"))()
 elseif game.PlaceId == 70845479499574 then --Bite By Night
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/9da5b88f3b6d4846"))()
+elseif game.PlaceId == 92416421522960 then -- slime RNG
+  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/c080c84b98754c18"))()
 end
