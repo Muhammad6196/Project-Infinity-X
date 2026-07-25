@@ -108,8 +108,8 @@ elseif game.PlaceId == 9872472334 then --evade
   end
 elseif game.PlaceId == 121864768012064 then --fish it
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/a6511d662971481c"))()
-elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
-  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/71838ebb32ae45d0"))()
+-- elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
+--   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/71838ebb32ae45d0"))()
 elseif game.PlaceId == 142823291 then --MM2
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/242c8b8a335d4b4b"))()
 elseif game.PlaceId == 16552821455 then --Dandy World
