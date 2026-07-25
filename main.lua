@@ -120,4 +120,6 @@ elseif game.PlaceId == 70845479499574 then --Bite By Night
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/9da5b88f3b6d4846"))()
 elseif game.PlaceId == 92416421522960 then -- slime RNG
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/c080c84b98754c18"))()
+elseif game.PlaceId == 140403681187145 or game.PlaceId == 17503543197 or game.PlaceId == 16498369169 or game.PlaceId == 8737899170 then
+  loadstring(game:HttpGet("https://vss.pandauth.com/virtual/file/2d2f08761b1f4e01"))()
 end
