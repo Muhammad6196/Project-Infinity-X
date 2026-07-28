@@ -1,3 +1,4 @@
+
 if game.PlaceId == 79546208627805 or game.PlaceId == 16116270224 then
   local Players = game:GetService("Players")
   local TweenService = game:GetService("TweenService")
@@ -121,5 +122,19 @@ elseif game.PlaceId == 70845479499574 then --Bite By Night
 elseif game.PlaceId == 92416421522960 then -- slime RNG
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/c080c84b98754c18"))()
 elseif game.PlaceId == 140403681187145 or game.PlaceId == 17503543197 or game.PlaceId == 16498369169 or game.PlaceId == 8737899170 then
+  repeat task.wait() until game:IsLoaded()
+  repeat task.wait() until game.Players.LocalPlayer
+  repeat task.wait() until game.Players.LocalPlayer.Character
+  repeat task.wait() until game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+  local GC = getconnections or get_signal_cons
+  if GC then
+    for i,v in pairs(GC(game.Players.LocalPlayer.Idled)) do
+        if v["Disable"] then
+            v["Disable"](v)
+        elseif v["Disconnect"] then
+            v["Disconnect"](v)
+        end
+    end
+  end
   loadstring(game:HttpGet("https://vss.pandauth.com/virtual/file/2d2f08761b1f4e01"))()
 end
