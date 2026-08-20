@@ -123,4 +123,6 @@ elseif game.PlaceId == 92416421522960 then -- slime RNG
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/c080c84b98754c18"))()
 elseif game.PlaceId == 140403681187145 or game.PlaceId == 17503543197 or game.PlaceId == 16498369169 or game.PlaceId == 8737899170 then
   loadstring(game:HttpGet("https://vss.pandauth.com/virtual/file/cb2f4f9682ae4c48"))()
+elseif game.PlaceId == 920587237 then
+  loadstring(game:HttpGet("https://vss.pandauth.com/kv/41e8205180dc70a6"))()
 end
