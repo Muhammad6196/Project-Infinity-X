@@ -112,7 +112,7 @@ elseif game.PlaceId == 121864768012064 then --fish it
 -- elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
 --   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/71838ebb32ae45d0"))()
 elseif game.PlaceId == 142823291 then --MM2
-  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/242c8b8a335d4b4b"))()
+  loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))()
 elseif game.PlaceId == 16552821455 then --Dandy World
   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/f1a3c3bf15b5463b"))()
 elseif game.PlaceId == 124473577469410 then --be a lucky block
