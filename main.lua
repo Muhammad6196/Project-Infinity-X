@@ -108,7 +108,7 @@ elseif game.PlaceId == 9872472334 then --evade
     end
   end
 elseif game.PlaceId == 121864768012064 then --fish it
-  loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/a6511d662971481c"))()
+  loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))() 
 -- elseif game.PlaceId == 8737899170 or game.PlaceId == 16498369169 or game.PlaceId == 17503543197 or game.PlaceId == 140403681187145 then --PS99
 --   loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/71838ebb32ae45d0"))()
 elseif game.PlaceId == 142823291 then --MM2
