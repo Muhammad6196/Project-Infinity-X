@@ -124,7 +124,7 @@ elseif game.PlaceId == 92416421522960 then -- slime RNG
 elseif game.PlaceId == 140403681187145 or game.PlaceId == 17503543197 or game.PlaceId == 16498369169 or game.PlaceId == 8737899170 then --ps99
   loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))() 
 elseif game.PlaceId == 920587237 then --Adopt Me
-  loadstring(game:HttpGet("https://vss.pandauth.com/kv/41e8205180dc70a6"))()
+  loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))() 
 elseif game.PlaceId == 107778070777162 then ---Steal An Egg
   loadstring(game:HttpGet("https://vss.pandauth.com/kv/9d4a05ed8176e298"))()
 end
