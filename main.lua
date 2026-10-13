@@ -127,4 +127,6 @@ elseif game.PlaceId == 920587237 then --Adopt Me
   loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))() 
 elseif game.PlaceId == 107778070777162 then ---Steal An Egg
   loadstring(game:HttpGet("https://vss.pandauth.com/kv/9d4a05ed8176e298"))()
+elseif game.PlaceId == 78490532994307 then -- Build an ant empire
+  loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))() 
 end
