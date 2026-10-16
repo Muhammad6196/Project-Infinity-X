@@ -131,4 +131,6 @@ elseif game.PlaceId == 78490532994307 then -- Build an ant empire
   loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))() 
 elseif game.PlaceId == 107535308163741 then
   loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))()
+elseif game.PlaceId == 72858262610964 then
+  loadstring(game:HttpGet("https://flowauth.net/v1/ui/41f3beca09c1e740130cc023d127fb53.lua"))()
 end
