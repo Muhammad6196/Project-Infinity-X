@@ -114,7 +114,7 @@ local DISPATCH = {
     [70845479499574]  = "https://vss.pandadevelopment.net/virtual/file/9da5b88f3b6d4846",         -- Bite By Night
     [92416421522960]  = "https://vss.pandadevelopment.net/virtual/file/c080c84b98754c18",         -- Slime RNG
     [107778070777162] = "https://vss.pandauth.com/kv/9d4a05ed8176e298",                           -- Steal An Egg
-    -- PS99 (multiple place IDs → same loader)
+    -- PS99
     [140403681187145] = FLOWAUTH,
     [17503543197]     = FLOWAUTH,
     [16498369169]     = FLOWAUTH,
