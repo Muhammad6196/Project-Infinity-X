@@ -123,6 +123,7 @@ local DISPATCH = {
     [72858262610964]  = FLOWAUTH,  --Tap Simulator Reborn
     [920587237]       = FLOWAUTH,  -- Adopt Me
     [78490532994307]  = FLOWAUTH,  -- Build An Ant Empire
+    [72858262610964]  = FLOWAUTH,  -- +1 Skipping Stone
     [107535308163741] = FLOWAUTH,
     [72858262610964]  = FLOWAUTH,
 }
