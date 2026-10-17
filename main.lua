@@ -125,7 +125,6 @@ local DISPATCH = {
     [78490532994307]  = FLOWAUTH,  -- Build An Ant Empire
     [111543903102439]  = FLOWAUTH,  -- +1 Skipping Stone
     [107535308163741] = FLOWAUTH,
-    [72858262610964]  = FLOWAUTH,
 }
 
 local pid = game.PlaceId
