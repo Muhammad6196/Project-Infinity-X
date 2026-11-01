@@ -125,6 +125,8 @@ local DISPATCH = {
 
     --PSX EVENT
     [85920622393590]  = FLOWAUTH,
+    [140030158342766] = FLOWAUTH,
+    [93869716229773]  = FLOWAUTH,
     -- Misc FLOWAUTH games
     [72858262610964]  = FLOWAUTH,  --Tap Simulator Reborn
     [920587237]       = FLOWAUTH,  -- Adopt Me
