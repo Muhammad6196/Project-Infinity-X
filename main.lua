@@ -136,6 +136,10 @@ local DISPATCH = {
     [107535308163741] = FLOWAUTH,
 }
 
+local GAME_DISPATCH = {
+    [6035872082] = FLOWAUTH,
+}
+
 local pid = game.PlaceId
 
 if REDIRECT_PLACES[pid] then
@@ -143,7 +147,7 @@ if REDIRECT_PLACES[pid] then
     return
 end
 
-local url = DISPATCH[pid]
+local url = DISPATCH[game.PlaceId] or GAME_DISPATCH[game.GameId]
 if not url then return end
 
 loadstring(game:HttpGet(url))()
