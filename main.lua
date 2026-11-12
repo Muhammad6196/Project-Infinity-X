@@ -138,7 +138,9 @@ local DISPATCH = {
 }
 
 local GAME_DISPATCH = {
-    [6035872082] = FLOWAUTH,
+    [6035872082]  = FLOWAUTH,
+    [4778845442]  = FLOWAUTH,
+    [10762636904] = FLOWAUTH,
 }
 
 local pid = game.PlaceId
